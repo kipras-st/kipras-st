@@ -3,12 +3,14 @@
 ## I'm Kipras and I am 24 years old lithuanian that tries to get familiar with the world of data
 
 
-
+👨🏻‍💻 About Me:
 🔭 I’m currently working as an analyst at Valdymo koordinavimo centras (Governance coordination centre)
+💻 Public policy analysis student at VU IIRPS
+🌱 I've finished learning Data analytics at Turing college. I managed to learn: SQL,Excel, PowerBi, Python and dig deeper into financial analyst specialization.
+⚡ Sports, books and my Samoyed dog are my biggest hobbies.
 
-
-🌱 I've finished learning Data analytics at Turing college. I managed to learn SQL, Excel, PowerBi, Python and dig deeper into financial analyst specialization.
-
+## Let's connect!
+https://www.linkedin.com/in/kipras-stulginskas-a6a027190/
 
 
 <!--
