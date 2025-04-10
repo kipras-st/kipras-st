@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 
+
+# I'm Kipras and I am 24 years old lithuanian that tries to get familiar with the world of data
 
 
 
